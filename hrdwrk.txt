@@ -1,0 +1,2 @@
+this file is from day one and had nothing inside of it
+today should start doing some HTML coding.
